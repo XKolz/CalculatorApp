@@ -11,7 +11,7 @@ cd CalculatorApp
 
 ## Step 3: Run Your App
 npx react-native run-android
-# or for iOS
+-
 npx react-native run-ios
 
 
